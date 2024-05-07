@@ -7,4 +7,4 @@ If your are a normal user and not a developer, please go to the [user documentat
 
 --- 
 
-Open the [wiki tab](https://github.com/Keksuccino/FancyMenu-Dev-Docs/wiki) to go to the docs.
+Open the [wiki tab](https://github.com/Keksuccino/FancyMenu-Dev-Docs/wiki) to go to the dev docs.
